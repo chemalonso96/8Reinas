@@ -1,0 +1,10 @@
+﻿  frmTP.cpp
+c:\users\mac\pictures\trabajoparcialcomplejidad\trabajoparcialcomplejidad\trabajoparcialcomplejidad\VecQueen.h(30): warning C4018: '<': no coinciden signed/unsigned
+c:\users\mac\pictures\trabajoparcialcomplejidad\trabajoparcialcomplejidad\trabajoparcialcomplejidad\VecQueen.h(40): warning C4018: '<': no coinciden signed/unsigned
+c:\users\mac\pictures\trabajoparcialcomplejidad\trabajoparcialcomplejidad\trabajoparcialcomplejidad\VecQueenEnemigo.h(31): warning C4018: '<': no coinciden signed/unsigned
+c:\users\mac\pictures\trabajoparcialcomplejidad\trabajoparcialcomplejidad\trabajoparcialcomplejidad\VecQueenEnemigo.h(41): warning C4018: '<': no coinciden signed/unsigned
+c:\users\mac\pictures\trabajoparcialcomplejidad\trabajoparcialcomplejidad\trabajoparcialcomplejidad\Principal.h(177): warning C4101: 'm': variable local sin referencia
+c:\users\mac\pictures\trabajoparcialcomplejidad\trabajoparcialcomplejidad\trabajoparcialcomplejidad\Principal.h(177): warning C4101: 'n': variable local sin referencia
+  frmTP.obj : /DEBUG:FASTLINK no se admite cuando hay presente código administrado; reiniciando vínculo con /DEBUG:FULL
+  TrabajoParcialComplejidad.vcxproj -> C:\Users\MAC\Pictures\TrabajoParcialComplejidad\TrabajoParcialComplejidad\Debug\TrabajoParcialComplejidad.exe
+  TrabajoParcialComplejidad.vcxproj -> C:\Users\MAC\Pictures\TrabajoParcialComplejidad\TrabajoParcialComplejidad\Debug\TrabajoParcialComplejidad.pdb (Partial PDB)
